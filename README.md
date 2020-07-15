@@ -35,7 +35,7 @@ $sp_dc = "aaa-111-bbb-222";
 $token = spotify_token::get($sp_dc, $sp_key, spotify_token::RETURN_EXPIRATION);
 ```
 
-######...or all data as array
+###### ...or all data as array
 ```php
 <?php
 
